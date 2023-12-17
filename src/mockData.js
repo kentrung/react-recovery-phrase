@@ -1,0 +1,18 @@
+export const mockData = [
+  { value: "Hà Nội", isSelected: false },
+  { value: "Hải Phòng", isSelected: false },
+  { value: "Hồ Chí Minh", isSelected: false },
+  { value: "Hà Nam", isSelected: false },
+  { value: "Nam Định", isSelected: false },
+  { value: "Nha Trang", isSelected: false },
+  { value: "Khánh Hòa", isSelected: false },
+  { value: "Đà Nẵng", isSelected: false },
+  { value: "Vĩnh Phúc", isSelected: false },
+  { value: "Cần Thơ", isSelected: false },
+  { value: "Bắc Ninh", isSelected: false },
+  { value: "Bắc Giang", isSelected: false },
+  { value: "Quy Nhơn", isSelected: false },
+  { value: "Thanh Hóa", isSelected: false },
+  { value: "Thái Nguyên", isSelected: false },
+  { value: "Hải Dương", isSelected: false },
+];

@@ -1,0 +1,2 @@
+.answer-box{grid-gap:20px;display:grid;grid-template-columns:repeat(4,1fr)}.answer-item{border:1px solid #ccc;border-radius:8px;padding:5px 8px}.answer-item.selected{cursor:pointer}.answer-item.selected:hover{border-color:#000}.question-box{grid-gap:20px;display:grid;grid-template-columns:repeat(4,1fr)}.question-item{cursor:pointer;text-align:center}.question-item:hover{text-decoration:underline}.question-item.selected{color:#eee;cursor:default}.question-item.selected:hover{text-decoration:none}
+/*# sourceMappingURL=main.81418ac0.css.map*/
