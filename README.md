@@ -1,6 +1,9 @@
 # React Recovery Phrase
 Code online: https://codesandbox.io/p/sandbox/recovery-phrase-uhbkgr
 
+![image](https://github.com/kentrung/react-recovery-phrase/assets/15643762/c5e3ed02-7a73-480a-99ac-7600312b391b)
+
+
 ## First load
   - Cho sẵn 16 ô đáp án trống
   - Cho sẵn 16 tên tỉnh/thành phố
